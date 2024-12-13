@@ -24,4 +24,5 @@ Juego de adivinar palabras realizado en Computación y Programación de 2ºBachi
 •Si la palabra ingresada es incorrecta, el programa le indica al jugador que no ha acertado, y le permite intentar nuevamente.
 
 **5.Finalización del Juego:**
+
 •Cuando el jugador acierta la palabra, el programa termina y felicita al jugador por su éxito.
