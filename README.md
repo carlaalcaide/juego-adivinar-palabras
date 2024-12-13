@@ -1,6 +1,8 @@
 # juego-adivinar-palabras
 Juego de adivinar palabras realizado en Computación y Programación de 2ºBachillerato.
 
+Realizado por Carla y Julia Alcaide Martínez.
+
 **1.Introducción:**
 
 •El juego desarrolla alrededor de una lista fija de 40 palabras, cada una con exactamente 6 letras. Estas palabras están relacionadas con elementos típicos que encontramos en una casa.
